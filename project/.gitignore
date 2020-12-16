@@ -1,0 +1,9 @@
+/build/
+*/context.xml
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+project/.classpath
+project/.classpath
+project/WebContent/META-INF/context.xml
+project/WebContent/META-INF/context.xml
